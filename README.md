@@ -1,7 +1,6 @@
 ### Hi there! 👋
 #### I am Gonzalo, a 16 years old student from Argentina.
 
-- 🌱 I’m currently learning React and Node.js.
 
 
 <!--

@@ -2,7 +2,8 @@
 #### I am Gonzalo, an 18 years old student from Argentina.
 #### Currently working @ Kovix.
 
-### WEB3 :soon::chains:
+#### :rocket::fire::chains: Web3 (WIP):
+- [POAPSlider](https://poapslider.com): An app to display your (or any address you want) POAPs in a cool looking way.
 
 #### Projects developed by LectO (along with three friends):
 - [LectO](https://lecto.app)
@@ -19,6 +20,8 @@
 #### Contact me!
 - Email: gonzalodiazdevivar@gmail.com
 - Twitter: [@gonzaddv](https://twitter.com/gonzaddv)
+
+
 
 
 <!--

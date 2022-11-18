@@ -1,10 +1,12 @@
 ### Hi there! 👋
-#### I am Gonzalo, an 18 years old student from Argentina.
+#### I am Gonzalo, an 18 years old developer from Argentina.
 #### Currently working @ Kovix.
 
 #### :rocket::fire::chains: Web3 (WIP):
 - [POAPSlider](https://poapslider.com): An app to display your (or any address you want) POAPs in a cool looking way.
   - :hammer: Next.js, React.
+- [belo Frontend Challenge](https://github.com/GonzaDDV/belo-frontend-challenge): A mobile app to display and swap coins, using the CoinGecko API.
+  - :hammer: TypeScript, React Native, Expo, Jest.
 
 #### Projects developed by LectO (along with three friends):
 - [LectO](https://lecto.app)

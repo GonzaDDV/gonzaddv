@@ -1,8 +1,8 @@
 ### Hi there! 👋
-#### I am Gonzalo, an 18 years old developer from Argentina.
-#### Currently working @ Kovix.
+#### I am Gonzalo, an 18 years old entrepreneur & developer from Argentina.
+#### Currently working @ [copytext.ai](https://copytext.ai).
 
-#### :rocket::fire::chains: Web3 (WIP):
+#### :chains: Web3 (WIP):
 - [POAPSlider](https://poapslider.com): An app to display your (or any address you want) POAPs in a cool looking way.
   - :hammer: Next.js, React.
 - [belo Frontend Challenge](https://github.com/GonzaDDV/belo-frontend-challenge): A mobile app to display and swap coins, using the CoinGecko API.

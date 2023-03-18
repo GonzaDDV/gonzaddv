@@ -1,6 +1,5 @@
 ### Hi there! 👋
-#### I am Gonzalo, an 18 years old entrepreneur & developer from Argentina.
-#### Currently working @ [copytext.ai](https://copytext.ai).
+#### I am Gonzalo, an 18 years old entrepreneur & developer from Argentina.}
 
 #### :chains: Web3 (WIP):
 - [POAPSlider](https://poapslider.com): An app to display your (or any address you want) POAPs in a cool looking way.

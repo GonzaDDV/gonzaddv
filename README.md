@@ -1,5 +1,5 @@
 ### Hi there! 👋
-#### I am Gonzalo, an 18 years old entrepreneur & developer from Argentina.
+#### I am Gonzalo, an 19 years old entrepreneur & developer from Argentina.
 
 #### :chains: Web3:
 - [POAPSlider](https://poapslider.vercel.app): An app to display your (or any address you want) POAPs in a cool looking way.

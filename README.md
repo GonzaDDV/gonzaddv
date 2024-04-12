@@ -1,5 +1,6 @@
 ### Hi there! 👋
 #### I am Gonzalo, a 19 years old entrepreneur & developer from Argentina.
+#### Currently working on [Stream Finance](https://streamprotocol.money).
 
 #### :chains: Web3:
 - [POAPSlider](https://poapslider.vercel.app): An app to display your (or any address you want) POAPs in a cool looking way.

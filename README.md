@@ -22,14 +22,6 @@
   - :pencil: Unique Iberoamerican Record of people with Specific Learning Difficulties, allowing them to carry a virtual passport validated by numerous governments and organizations.
   - :handshake: Developed and distributed along with Disfam, the biggest dyslexia-related NGO in Ibero-America, operating in 16 countries.
   - :hammer: React, SCSS, Node.js,  Express, MongoDB.
-
-#### Contact me!
-- Email: gonzalodiazdevivar@gmail.com
-- Twitter: [@gonzaddv](https://twitter.com/gonzaddv)
-
-
-
-
 <!--
 **GonzaDDV/gonzaddv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
